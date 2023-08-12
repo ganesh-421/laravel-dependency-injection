@@ -1,4 +1,5 @@
-<?php namespace App\Services;
+<?php 
+namespace App\Services;
 class TestService 
 {
     public function log($str)
